@@ -84,7 +84,7 @@ header {
 }
 
 .logo{
-    background:url("../images/niall.jpg");
+    background:url("images/niall.jpg");
     background-position:center;
     background-repeat:no-repeat;
     background-size:cover;
